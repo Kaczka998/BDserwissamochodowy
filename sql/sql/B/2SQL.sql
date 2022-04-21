@@ -1,0 +1,3 @@
+SET ECHO ON
+EXEC proc2();
+SET ECHO OFF

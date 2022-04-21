@@ -1,0 +1,17 @@
+SET ECHO ON
+drop sequence kontakt_seq;
+drop sequence rodzaje_usulg_seq;
+drop sequence adresy_seq;
+drop sequence stanowiska_seq;
+drop sequence osoby_seq;
+drop sequence pracownicy_seq;
+drop sequence marki_seq;
+drop sequence rodzaje_napedow_seq;
+drop sequence typy_seq;
+drop sequence zrodla_energii_seq;
+drop sequence samochody_seq;
+drop sequence wykonane_uslugi_seq;
+drop sequence faktury_seq;
+drop sequence klienci_seq;
+drop sequence modele_seq;
+SET ECHO OFF

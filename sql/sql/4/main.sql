@@ -1,0 +1,19 @@
+SET ECHO ON
+DELETE FROM Wykonane_uslugi;
+DELETE FROM Faktury;
+DELETE FROM Pracownicy;
+DELETE FROM Klienci;
+DELETE FROM Osoby;
+DELETE FROM Kontakt;
+DELETE FROM Adresy;
+DELETE FROM Samochody;
+DELETE FROM Modele;
+DELETE FROM Marki;
+DELETE FROM Typy;
+DELETE FROM Zrodla_energii;
+DELETE FROM Rodzaje_napedow;
+DELETE FROM Rodzaje_uslug;
+DELETE FROM Stanowiska;
+
+COMMIT;
+SET ECHO OFF

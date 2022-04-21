@@ -1,0 +1,3 @@
+SET ECHO ON
+SELECT func2 FROM dual;
+SET ECHO OFF
